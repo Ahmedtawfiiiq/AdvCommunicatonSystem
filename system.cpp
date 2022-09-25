@@ -50,7 +50,7 @@ void System::decoder()
         k++;
     }
     System::data.push_back(System::data21.to_string());
-
+    /*
     string s1 = FileHandler::getInstance().data[0];
     string s2 = System::data[0];
 
@@ -65,6 +65,7 @@ void System::decoder()
     }
 
     System::data.push_back("Changed bits: " + to_string(counter));
+     */
 }
 
 void System::mapper()

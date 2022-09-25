@@ -8,7 +8,6 @@
 
 void EncoderState::execute(SystemMachine *systemMachinePtr)
 {
-    FileHandler::getInstance().outFile(System::getInstance().data);
     System::getInstance().encoder();
     FileHandler::getInstance().outFile(System::getInstance().data);
     systemMachinePtr->changeState(systemMachinePtr->states[SystemMachine::mapper]);

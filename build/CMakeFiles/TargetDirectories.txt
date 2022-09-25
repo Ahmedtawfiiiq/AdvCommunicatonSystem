@@ -1,0 +1,7 @@
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/install/strip.dir
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/install/local.dir
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/install.dir
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/list_install_components.dir
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/edit_cache.dir
+/home/ahmed/outputTest/AdvCommunicatonSystem/build/CMakeFiles/comSys.dir

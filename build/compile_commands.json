@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/ahmed/outputTest/AdvCommunicatonSystem/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/comSys.dir/main.cpp.o -c /home/ahmed/outputTest/AdvCommunicatonSystem/main.cpp",
+  "file": "/home/ahmed/outputTest/AdvCommunicatonSystem/main.cpp"
+},
+{
+  "directory": "/home/ahmed/outputTest/AdvCommunicatonSystem/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/comSys.dir/systemMachine.cpp.o -c /home/ahmed/outputTest/AdvCommunicatonSystem/systemMachine.cpp",
+  "file": "/home/ahmed/outputTest/AdvCommunicatonSystem/systemMachine.cpp"
+},
+{
+  "directory": "/home/ahmed/outputTest/AdvCommunicatonSystem/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/comSys.dir/systemStates.cpp.o -c /home/ahmed/outputTest/AdvCommunicatonSystem/systemStates.cpp",
+  "file": "/home/ahmed/outputTest/AdvCommunicatonSystem/systemStates.cpp"
+},
+{
+  "directory": "/home/ahmed/outputTest/AdvCommunicatonSystem/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/comSys.dir/fileHandler.cpp.o -c /home/ahmed/outputTest/AdvCommunicatonSystem/fileHandler.cpp",
+  "file": "/home/ahmed/outputTest/AdvCommunicatonSystem/fileHandler.cpp"
+},
+{
+  "directory": "/home/ahmed/outputTest/AdvCommunicatonSystem/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/comSys.dir/system.cpp.o -c /home/ahmed/outputTest/AdvCommunicatonSystem/system.cpp",
+  "file": "/home/ahmed/outputTest/AdvCommunicatonSystem/system.cpp"
+}
+]
